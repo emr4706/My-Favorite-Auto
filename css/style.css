@@ -1,0 +1,113 @@
+h1 {
+    color: rgb(133, 0, 40);
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif; 
+  }
+  h2 {
+    font-family: fantasy;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+  }
+  h3 {
+    font-family: fantasy;
+    text-align: left;
+    font-weight: bold;
+  }
+  p {
+    font-size: 20px;
+  }
+  #left-menu {
+    float: left;
+    background: rgb(255, 255, 255);
+    width: 15%;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+  }
+  #tesla{
+    margin-left: 140px;
+  }
+  a:link { color: grey;
+  }
+  #models {
+  background: rgb(241, 242, 239);
+  border-top: 10px solid rgb(133, 0, 40) 
+  }  
+  #safety {
+    background: rgb(241, 242, 239);
+    border-top: 10px solid rgb(133, 0, 40);
+  }
+  #hero {
+    float: top;
+    margin-left: 200px;
+    margin-bottom: 10px;  
+  }
+  #performance {
+    background: rgb(241, 242, 239);
+    margin-top: 10px;
+    border-top: 10px solid rgb(133, 0, 40)
+  }
+  #range {
+    background: rgb(241, 242, 239);
+    margin-top: 10px;
+    border-top: 10px solid rgb(133, 0, 40);
+  }
+  #autopilot {
+    background: rgb(241, 242, 239);
+    margin-top: 10px;
+    border-top: 10px solid rgb(133, 0, 40);
+  }
+  #inhabitat {
+    float: top;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #interior {
+    background: rgb(241, 242, 239);
+    margin-top: 10px;
+    border-top: 10px solid rgb(133, 0, 40);
+  }
+  #controls {
+    position: relative;
+    color: rgb(133, 0, 40);
+    float: left;
+  }
+  #landscape {
+    float: top;
+    margin-left: 75px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #exterior {
+   background: rgb(241, 242, 239);
+   margin-top: 10px;
+   border-top: 10px solid rgb(133, 0, 40); 
+  }
+  #overdrive {
+   float: top;
+   margin-left: 200px;
+   margin-top: 10px;
+   margin-bottom: 10px;  
+  }
+  #model1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(133, 0, 40);
+    position: relative;
+    left: 20px;
+    top: 10px;
+  }
+  #contact {
+    border: 3px solid rgb(133, 0, 40);
+    width: 30%;
+    background-color: rgb(217, 219, 214);
+    position: relative;
+    left: 900px;
+    bottom: 65px;
+  }
+  
+  
+  
